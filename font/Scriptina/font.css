@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'SCRIPTIN';
+	src: url('./SCRIPTIN.eot');
+	src: local('SCRIPTIN'), url('./SCRIPTIN.woff') format('woff'), url('./SCRIPTIN.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_1076">Text with this font applied</p> */
+.fontsforweb_fontid_1076 {
+	font-family: 'SCRIPTIN' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
